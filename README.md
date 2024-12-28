@@ -33,6 +33,12 @@ EDA in Power BI refers to the process of exploring and analyzing a dataset using
  3. Visualizations like bar charts, line chart, donut chart were used to identify top 5 and bottom 5 pizzas by revenue, quantity, total orders, monthly trend for total orders, % of sales by pizza size and category. 
  4. Cards were used for identifying total revenue, average order value,total pizzas sold, total orders guiding the design of the final Power BI dashboard.
  5. Performance sales are also identified.
+    
+![Screenshot (505)](https://github.com/user-attachments/assets/b8f9ce44-0659-4ed1-976e-49f56f102efc)
+
+![Screenshot (506)](https://github.com/user-attachments/assets/f94f00b1-514f-4fbb-a22d-98c2e71c3141)
+
+
 
 ### Results/Findings
 
