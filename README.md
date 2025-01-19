@@ -6,7 +6,7 @@ This data analysis project aims to provide insights into the sales and profit pe
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is in excel file, containing detailed information about each sales done in Pizza Business.
+Sales Data: The primary dataset used for this analysis is in pizza sales excel file, containing detailed information about each sales done in Pizza Business.
 
 ### Tools
 
